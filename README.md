@@ -50,7 +50,7 @@ This can also be implemented as  FCFS.
 The object oriented design and general functionality can be improved. 
 
 TODO :
-sample BR  : 
+
 1. Improve Scheduling algorithm
    1.1 If elevator 1 is going up, it should  continue going up 
 2. Improve elevator class
